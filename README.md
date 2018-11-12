@@ -1,6 +1,6 @@
 # MF-Studio
 Another brand new website design with many new animations, transitions and effects. The Design consists of following features:-
-1) **Full Screen Navigation Menu** using [**Greensock Animation Platform**](https://greensock.com/).
+1) **Full Screen Navigation Menu** using [Greensock Animation Platform](https://greensock.com/).
 
 2) **Explore Animation** also made using [**Greensock Animation Platform**](https://greensock.com/).
 
