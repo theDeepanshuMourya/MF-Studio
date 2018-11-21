@@ -5,6 +5,10 @@ html, body {
   height: 100%;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 #loader {
   position: fixed;
   width: 100%;
