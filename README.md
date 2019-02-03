@@ -15,5 +15,3 @@ Another brand new website design with many new animations, transitions and effec
 To create mockups, use [Smartmockups](https://smartmockups.com/?status=accepted&expires=1543251852&seller=19214&affiliate=34221&link=783&p_tok=c9d79cb6-8611-4265-b697-692f7dfb4f91)
 
 The transitions effects added have been used from [ScrollReveal](https://scrollrevealjs.org/)
-
-[View The Project](https://thedeepanshumourya.github.io/MF-Studio/)
