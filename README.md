@@ -12,6 +12,14 @@ Another brand new website design with many new animations, transitions and effec
 
 6) **Coming Soon Page Design** for the Work & Studio Page.
 
-To create mockups, use [Smartmockups](https://smartmockups.com/?status=accepted&expires=1543251852&seller=19214&affiliate=34221&link=783&p_tok=c9d79cb6-8611-4265-b697-692f7dfb4f91)
+To create mockups, use [Smartmockups](https://smartmockups.com/)
 
 The transitions effects added have been used from [ScrollReveal](https://scrollrevealjs.org/)
+
+![Mockup](mockup.png)
+
+![Explore](explore.gif)
+
+![Contact](contact.gif)
+
+![Team Page](team.gif)
